@@ -2,7 +2,7 @@
 
 **Prepared by: Shahzeb Ali**  
 **Independent GRC Portfolio Project | Fictional scenario**  
-Version 1.0 · Scenario date: 8 September 2026
+Version 1.0 · Scenario date: 9 September 2026
 
 > Independent portfolio exercise based on fictional organizations. No real vendor assessment, client engagement or assurance review took place.
 
